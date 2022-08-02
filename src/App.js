@@ -60,7 +60,7 @@ function App({ data, addSection, startDiscuss, stopDiscuss, removeSection }) {
       </Box>
       <Footer>
         <Text size="xxsmall">
-          Time Keeper © Kim mintae. All right Reserved
+          Time Keeper © All right Reserved
         </Text>
       </Footer>
     </>
